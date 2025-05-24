@@ -6,7 +6,8 @@ class Course {
     Course(String name, int marks,int id) {
         this.name = name;
         this.marks = marks;
-        this.id=id}
+        this.id=id;
+    }
 }
 class Student {
     String name = "Ravi";
